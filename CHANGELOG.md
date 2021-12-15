@@ -1,5 +1,11 @@
 # @ctx-core/dialog-ui-svelte
 
+## 1.0.4
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+
 ## 1.0.3
 
 ### Patch Changes
