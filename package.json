@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/dialog-ui-svelte",
-	"version": "1.0.7",
+	"version": "1.0.8",
 	"description": "ctx-core dialog",
 	"keywords": [
 		"ctx-core",
@@ -35,7 +35,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"devDependencies": {
-		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.93",
+		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.94",
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"@swc/cli": "^0.1.55",
