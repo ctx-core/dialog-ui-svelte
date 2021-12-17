@@ -1,4 +1,5 @@
-<script lang="ts">
+<script>
+/** @type {string} */
 export let tabindex = '0'
 </script>
 

@@ -1,5 +1,11 @@
 # @ctx-core/dialog-ui-svelte
 
+## 1.0.10
+
+### Patch Changes
+
+- using js + jsdoc for typescript types
+
 ## 1.0.9
 
 ### Patch Changes
