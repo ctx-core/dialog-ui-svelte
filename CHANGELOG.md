@@ -1,5 +1,11 @@
 # @ctx-core/dialog-ui-svelte
 
+## 1.0.13
+
+### Patch Changes
+
+- sideEffects = false
+
 ## 1.0.12
 
 ### Patch Changes
