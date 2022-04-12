@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/dialog-ui-svelte",
-	"version": "1.0.15",
+	"version": "1.0.16",
 	"description": "ctx-core dialog",
 	"keywords": [
 		"ctx-core",
@@ -19,9 +19,7 @@
 	"type": "module",
 	"types": "./src/index.d.ts",
 	"exports": {
-		".": {
-			"import": "./src/index.js"
-		},
+		".": "./src/index.js",
 		"./package.json": "./package.json"
 	},
 	"scripts": {

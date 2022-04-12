@@ -1,5 +1,11 @@
 # @ctx-core/dialog-ui-svelte
 
+## 1.0.16
+
+### Patch Changes
+
+- package.json: exports: update
+
 ## 1.0.15
 
 ### Patch Changes
