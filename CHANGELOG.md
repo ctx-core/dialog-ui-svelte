@@ -1,5 +1,11 @@
 # @ctx-core/dialog-ui-svelte
 
+## 1.0.17
+
+### Patch Changes
+
+- tslib: ^2.3.1 -> ^2.4.0
+
 ## 1.0.16
 
 ### Patch Changes
