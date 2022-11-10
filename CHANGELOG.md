@@ -1,5 +1,11 @@
 # @ctx-core/dialog-ui-svelte
 
+## 1.0.31
+
+### Patch Changes
+
+- svelte: ^3.53.0 -> ^3.53.1
+
 ## 1.0.30
 
 ### Patch Changes
