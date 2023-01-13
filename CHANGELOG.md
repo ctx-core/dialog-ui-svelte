@@ -1,5 +1,11 @@
 # @ctx-core/dialog-ui-svelte
 
+## 1.0.41
+
+### Patch Changes
+
+- rimraf: ^4.0.1 -> ^4.0.4
+
 ## 1.0.40
 
 ### Patch Changes
