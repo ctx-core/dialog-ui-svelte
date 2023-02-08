@@ -1,5 +1,11 @@
 # @ctx-core/dialog-ui-svelte
 
+## 1.0.47
+
+### Patch Changes
+
+- CloseDialogHandle: fix: + click event
+
 ## 1.0.46
 
 ### Patch Changes
