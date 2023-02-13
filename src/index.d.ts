@@ -1,2 +1,1 @@
-import 'svelte'
-export * from './CloseDialogHandle'
+export * from './CloseDialogHandle/index'

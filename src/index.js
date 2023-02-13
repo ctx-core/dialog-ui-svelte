@@ -1,2 +1,2 @@
 import 'svelte'
-export * as CloseDialogHandle from './CloseDialogHandle.svelte'
+export * as CloseDialogHandle from './CloseDialogHandle/index.svelte'
