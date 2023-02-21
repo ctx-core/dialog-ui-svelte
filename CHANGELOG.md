@@ -1,5 +1,12 @@
 # @ctx-core/dialog-ui-svelte
 
+## 1.1.1
+
+### Patch Changes
+
+- clean up dependencies
+- dependencies: + svelte
+
 ## 1.1.0
 
 ### Minor Changes
