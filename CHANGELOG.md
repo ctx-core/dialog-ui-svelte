@@ -1,5 +1,11 @@
 # @ctx-core/dialog-ui-svelte
 
+## 1.1.24
+
+### Patch Changes
+
+- @ctx-core/monorepo: ^20.3.3 -> ^20.3.4
+
 ## 1.1.23
 
 ### Patch Changes
