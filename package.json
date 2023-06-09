@@ -27,7 +27,7 @@
 		"build": ":",
 		"clean": ":",
 		"exec": "$@",
-		"prepublishOnly": "npm run clean && npm run build"
+		"prepublishOnly": "pnpm clean && pnpm build"
 	},
 	"dependencies": {
 		"svelte": "^3.59.1"
