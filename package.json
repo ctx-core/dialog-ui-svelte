@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/dialog-ui-svelte",
-	"version": "1.1.28",
+	"version": "1.1.29",
 	"description": "ctx-core dialog",
 	"keywords": [
 		"ctx-core",
@@ -30,7 +30,7 @@
 		"prepublishOnly": "pnpm clean && pnpm build"
 	},
 	"dependencies": {
-		"svelte": "^4.0.0"
+		"svelte": "^4.0.1"
 	},
 	"devDependencies": {
 		"c8": "^8.0.0",
