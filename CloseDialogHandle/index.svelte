@@ -5,7 +5,7 @@ const dispatch = createEventDispatcher()
 </script>
 
 <a
-	href="."
+	href=""
 	class="close CloseDialogHandle {$$props.class||''}"
 	tabindex="{tabindex || '0'}"
 	on:click|preventDefault={$=>dispatch(/** @type {any} */'click', $)}
