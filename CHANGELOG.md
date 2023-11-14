@@ -1,5 +1,11 @@
 # @ctx-core/dialog-ui-svelte
 
+## 1.2.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+
 ## 1.2.1
 
 ### Patch Changes
