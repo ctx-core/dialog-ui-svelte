@@ -1,5 +1,11 @@
 # @ctx-core/dialog-ui-svelte
 
+## 1.2.13
+
+### Patch Changes
+
+- tsx: ^4.6.2 -> ^4.7.0
+
 ## 1.2.12
 
 ### Patch Changes
