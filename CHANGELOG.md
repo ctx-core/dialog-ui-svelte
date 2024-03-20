@@ -1,5 +1,11 @@
 # @ctx-core/dialog-ui-svelte
 
+## 1.2.19
+
+### Patch Changes
+
+- package.json: author: url,email
+
 ## 1.2.18
 
 ### Patch Changes
