@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/dialog-ui-svelte",
-	"version": "1.2.27",
+	"version": "1.2.28",
 	"description": "ctx-core dialog",
 	"keywords": [
 		"ctx-core",
